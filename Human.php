@@ -49,9 +49,9 @@ class Human {
         $age = $this->getAge();
 
         if ($age > 18) {
-            return true;
+            return "Adult";
         } else {
-            return false;
+            return "Child";
         }
     }
 
@@ -64,5 +64,3 @@ class Human {
     }
 
 }
-
-?>
