@@ -8,4 +8,4 @@ Test 2
 ```
 - Two robots. 
 
-[Email me](mailto:bukela@gmail.com)
+[&#9786; Email me](mailto:bukela@gmail.com)
