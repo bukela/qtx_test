@@ -1,6 +1,9 @@
 <?php
+include "BehaviourTrait.php";
 
 class Human {
+    use BehaviourTrait;
+
     private $firstName;
     private $lastName;
     private $age;
@@ -41,7 +44,7 @@ class Human {
         return $this->eyesColor;
     }
 
-    public function getVote()
+    public function getMature()
     {
         $age = $this->getAge();
 
@@ -60,5 +63,6 @@ class Human {
         return $this->weight;
     }
 
-
 }
+
+?>

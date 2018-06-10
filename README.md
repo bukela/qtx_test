@@ -1,4 +1,4 @@
-# qtx_test
+# Quantox Test
 Test 1
 
 - Human model using PHP.
