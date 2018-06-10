@@ -8,4 +8,4 @@ Test 2
 ```
 - Two robots. 
 
-[email me](mailto:bukela@gmail.com)
+[Send email ![#f03c15]](mailto:bukela@gmail.com)
